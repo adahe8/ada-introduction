@@ -10,9 +10,9 @@ I'm a 3rd year majoring in **Cognitive Science (Machine Learning & Neural Compua
 My favorite colors are `#FF750` and `#031273`.
 
 ### What this page covers
-- [x] who I am 
-- [x] [some of my SWE background](#experience-with-swe)
-- [x] [fun stuff that I like!](#fun-corner)
+[x] who I am 
+[x] [some of my SWE background](#experience-with-swe)
+[x] [fun stuff that I like!](#fun-corner)
 
 
 
