@@ -30,14 +30,16 @@ I'm always happy to meet new people. Here's to an amazing Spring!
 ![pic of ada](/imgs/libraryprofile.jpg)
 
 ## Fun Corner
-### Principles of Life
+### Principles
 - enjoy the small things
 - reflect on what makes you grateful
 - you are a plant: give yourself water and sun
 - results happen overtime, not overnight
 - think about WHY as well as how  
+I like keeping these statements in mind!  
+
 ### My favorite breakfast recipe
-#### [Multigrain Porridge]((/imgs/eight-treasure-Congee.jpg))
+#### [Multigrain Porridge](/imgs/eight-treasure-Congee.jpg)
 **Ingredients:**  
 1. Purple rice
 2. Quinoa
