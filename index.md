@@ -36,7 +36,6 @@ I'm always happy to meet new people. Here's to an amazing Spring!
 - you are a plant: give yourself water and sun
 - results happen overtime, not overnight
 - think about WHY as well as how  
-
 ### My favorite breakfast recipe
 #### [Multigrain Porridge]((/imgs/eight-treasure-Congee.jpg))
 **Ingredients:**  
