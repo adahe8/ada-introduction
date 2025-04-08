@@ -39,13 +39,16 @@ I'm always happy to meet new people. Here's to an amazing Spring!
 ### My favorite breakfast recipe
 #### [Multigrain Porridge]((/imgs/eight-treasure-Congee.jpg))
 **Ingredients:**  
+
 1. Purple rice
 2. Quinoa
 3. Sticky millet
 4. Mung beans or adzuki beans or both
 5. White rice or oats or whatever other grain you want to use in your pantry
-6. Black sesame powder
-**Steps:**
+6. Black sesame powder  
+
+**Steps:**  
+
 1. Wash all the grains; to save containers you can put the rice and beans together, and the millet and quinoa together
 2. Soak them overnight
 3. Throw everything in an instant pot or normal pot, add triple the amount of dry ingredients of your choice of milk
