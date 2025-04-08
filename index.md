@@ -10,9 +10,9 @@ I'm a 3rd year majoring in **Cognitive Science (Machine Learning & Neural Compua
 My favorite colors are `#FF750` and `#031273`.
 
 ### What this page covers
-- [x] who I am
-- [x] [some of my SWE background](#experience-with-swe)
-- [x] [fun stuff that I like!](#fun-corner)
+[x]  who I am
+[x]  [some of my SWE background](#experience-with-swe)
+[x]  [fun stuff that I like!](#fun-corner)
 
 
 
@@ -35,8 +35,7 @@ I'm always happy to meet new people. Here's to an amazing Spring!
 - reflect on what makes you grateful
 - you are a plant: give yourself water and sun
 - results happen overtime, not overnight
-- think about WHY as well as how  
-I like keeping these statements in mind!  
+- think about WHY as well as how   
 
 ### My favorite breakfast recipe
 #### [Multigrain Porridge](/imgs/eight-treasure-Congee.jpg)
